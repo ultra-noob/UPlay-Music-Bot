@@ -9,7 +9,7 @@ exports.run = async (client, message) => {
         embed: {
             color: '00d9ff',
             author: { name: track.title },
-            footer: { text: '© UPlay 2020' },
+            footer: { text: 'Bot ©®eated by Nikhil' },
             fields: [
                 { name: 'Channel', value: track.author, inline: true },
                 { name: 'Requested by', value: track.requestedBy.username, inline: true },
