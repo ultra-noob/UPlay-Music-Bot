@@ -1,0 +1,7 @@
+{
+  "name": "discord4MusicBot",
+  "description": "A Simple Discord Music Bot!",
+  "repository": "https://github.com/DarkThunder99/Music-Bot",
+  "logo": "https://cdn.discordapp.com/emojis/786593063040581632.png?v=1",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
